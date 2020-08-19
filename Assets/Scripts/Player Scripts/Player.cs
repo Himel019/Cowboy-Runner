@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D myRigidbody;
     private Animator myAnimator;
+    private AudioSource audioSource;
     private Button jumpButton;
 
 
@@ -34,7 +35,8 @@ public class Player : MonoBehaviour
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D> ();
-        myAnimator = GetComponent<Animator>();
+        myAnimator = GetComponent<Animator> ();
+        audioSource = GetComponent<AudioSource> ();
         jumpButton = GameObject.Find("Jump Button").GetComponent<Button> ();
 
         jumpButton.onClick.AddListener(() => Jump());
@@ -63,7 +65,7 @@ public class Player : MonoBehaviour
         if(canJump) {
             canJump = false;
 
-            AudioSource.PlayClipAtPoint(jumpClip, transform.position);
+            audioSource.PlayOneShot(jumpClip, 0.6f);
 
             float force = forwardForce;
             if(transform.position.x >= 5f) {
@@ -80,7 +82,11 @@ public class Player : MonoBehaviour
             endGame();
         }
 
+        if(audioSource.isPlaying){
+            audioSource.Stop();
+        }
         AudioSource.PlayClipAtPoint(deathClip, transform.position);
+        
         Destroy(gameObject);
     }
 

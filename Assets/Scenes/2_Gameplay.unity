@@ -1343,7 +1343,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441243863}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10, y: 0, z: 0}
+  m_LocalPosition: {x: -12, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -1916,7 +1916,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1827932034}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10, y: -2, z: 2}
+  m_LocalPosition: {x: 12, y: -2, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -1940,8 +1940,8 @@ MonoBehaviour:
   - {fileID: 8117673449044635273, guid: 8ea4b8d4484668948bdd94c0dcfa9010, type: 3}
   - {fileID: 7461800111941915455, guid: 78d1f89a980cd4f419a04c1aaa908561, type: 3}
   - {fileID: 8239150990842643779, guid: 39794af9c6ed71f458e77bd3f48595f0, type: 3}
-  minSpawningSpeed: 2
-  maxSpawningSpeed: 10
+  minSpawningSpeed: 0.7
+  maxSpawningSpeed: 6
 --- !u!1 &1856748302
 GameObject:
   m_ObjectHideFlags: 0

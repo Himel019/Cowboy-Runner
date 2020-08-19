@@ -12,9 +12,9 @@ public class ObstacleSpawner : MonoBehaviour
     private List<GameObject> obstaclesForSpawning = new List<GameObject>();
 
     [SerializeField]
-    private float minSpawningSpeed = 0.2f;
+    private float minSpawningSpeed = 0.1f;
     [SerializeField]
-    private float maxSpawningSpeed = 9f;
+    private float maxSpawningSpeed = 4f;
 
     /// Awake is called when the script instance is being loaded.
     void Awake()
@@ -93,7 +93,7 @@ public class ObstacleSpawner : MonoBehaviour
     }
 
     public void SetSpawningTime(float speed) {
-        if(maxSpawningSpeed > 3f) {
+        if(maxSpawningSpeed > 1.5f) {
             maxSpawningSpeed -= speed;
         }
     }

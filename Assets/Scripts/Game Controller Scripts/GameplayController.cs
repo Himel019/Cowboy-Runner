@@ -67,7 +67,7 @@ public class GameplayController : MonoBehaviour
         background.GetComponent<BackgroundLooper> ().SetSpeed(0.1f);
         ground.GetComponent<BackgroundLooper> ().SetSpeed(0.1f);
         ObstacleSpawner.instance.SetNewObstacleSpeed(-2f);
-        ObstacleSpawner.instance.SetSpawningTime(2f);
+        ObstacleSpawner.instance.SetSpawningTime(1f);
 
         StartCoroutine(IncreaseDifficulty());
     }
