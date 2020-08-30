@@ -1940,7 +1940,7 @@ MonoBehaviour:
   - {fileID: 8117673449044635273, guid: 8ea4b8d4484668948bdd94c0dcfa9010, type: 3}
   - {fileID: 7461800111941915455, guid: 78d1f89a980cd4f419a04c1aaa908561, type: 3}
   - {fileID: 8239150990842643779, guid: 39794af9c6ed71f458e77bd3f48595f0, type: 3}
-  minSpawningSpeed: 0.7
+  minSpawningSpeed: 1.3
   maxSpawningSpeed: 6
 --- !u!1 &1856748302
 GameObject:

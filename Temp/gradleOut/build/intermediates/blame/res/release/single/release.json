@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_browser_actions_context_menu_row.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\0ac2cc69dde282bb992a74430ff13a2c\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_browser_actions_context_menu_page.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\0ac2cc69dde282bb992a74430ff13a2c\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\2fd75891a5e7807bae0d2c8c19a01a18\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

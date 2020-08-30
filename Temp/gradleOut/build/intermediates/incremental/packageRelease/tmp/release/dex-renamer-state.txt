@@ -1,0 +1,4 @@
+#Sun Aug 30 08:59:35 BDT 2020
+base.0=E\:\\Unity\\Cowboy Runner\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
